@@ -74,3 +74,7 @@ Additional plugins:
 * [voxel-fullscreen](https://github.com/voxel/voxel-fullscreen): Toggle fullscreen with a hotkey
 * [voxel-keys](https://github.com/voxel/voxel-keys): Events for key bindings
 * [kb-bindings-ui](https://github.com/deathcap/kb-bindings-ui): A graphical interface for configuring [kb-bindings](https://github.com/deathcap/kb-bindings) or [game-shell](https://github.com/mikolalysenko/game-shell) using [dat-gui](https://code.google.com/p/dat-gui/).
+
+
+
+./node_modules/.bin/browserify index.js > bundle.js
